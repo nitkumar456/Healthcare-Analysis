@@ -12,7 +12,7 @@ The dashboard contains data of 55,500 unique patient records from 10 major hospi
 4. Data Source
    Onyx Data Challenge
 
- 5 Objective of creating the dashboard
+5. Objective of creating the dashboard
   1.	What are the most common age groups, gender and blood types among patients? 
   2.	Which medical conditions are diagnosed the most?
   3.  How long do patients typically stay in the hospital?
