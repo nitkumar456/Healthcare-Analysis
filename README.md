@@ -22,4 +22,5 @@ The dashboard contains data of 55,500 unique patient records from 10 major hospi
   6.  What medications are most often prescribed for each condition?
   7.  Which hospitals are treating the most patients?
 
+ 5. https://github.com/nitkumar456/Healthcare-Analysis/blob/main/Healthcare.PNG
 
