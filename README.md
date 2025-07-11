@@ -5,7 +5,7 @@ The dashboard contains data of 55,500 unique patient records from 10 major hospi
 
 2. Tech Stack.
  
-  1. (Power BI Desktop) - Main Data Visualization platform used for report creation
+   1. (Power BI Desktop) - Main Data Visualization platform used for report creation
  
    2. (Power Query) - Data transformatoin and cleaning layer for reshaping and preparing the data.
  
