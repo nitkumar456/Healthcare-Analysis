@@ -3,7 +3,7 @@
 1. Short Description
 The dashboard contains data of 55,500 unique patient records from 10 major hospitals across the U.S. The dataset captures a broad view of hospital admissions, medical conditions, medications, insurance providers, and treatment costs.
 
- 2.Tech Stack.
+ 2. Tech Stack.
  
 (1) Power BI Desktop - Main Data Visualization platform used for report creation
 (2) Power Query - Data transformatoin and cleaning layer for reshaping and preparing the data.
